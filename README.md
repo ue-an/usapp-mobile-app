@@ -1,14 +1,26 @@
 # UsApp 
-# Mobile Application (for students)
+### Mobile Application (for students)
 ### Capstone project. A mobile messaging and forum application for students of University of Rizal System Binangonan
 
-Mobile Messaging and Forum Application for Students
-Screenshots:
+# Screenshots
+<br>
+Login / Signup:  
+
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-mobile-login.jpg?raw=true)
+<br>
+Student Number Validation:
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-studnumber.jpg?raw=true)
+<br>
+Thread Creation:
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-post.jpg?raw=true)
+<br>
+Personal / Direct Message:
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-chat.png?raw=true)
+<br>
+About URS:
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-mvqp.jpg?raw=true)
+<br>
+UsApp Developers:
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-devs.jpg?raw=true)
 <br>
 <br>

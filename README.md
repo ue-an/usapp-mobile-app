@@ -26,8 +26,7 @@ UsApp Developers:
 <br>
 ### UsApp Mobile Download Site
 - [UsApp Mobile App: Download Site](https://usapp-download-site.web.app/)
-<br>
-![usapp-download-site](https://github.com/ue-an/usapp-mobile-app/assets/68469141/7715c1be-b52a-41d1-9d9d-969dd2b1a43d)
+![usapp-download-site](https://github.com/ue-an/usapp-mobile-app/assets/68469141/5a9c2af9-b06d-4318-ad42-44b34adccbac)
 
 
 

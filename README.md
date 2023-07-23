@@ -1,6 +1,6 @@
-# UsApp Mobile Application (for students)
-
-A capstone project for URSB
+# UsApp 
+# Mobile Application (for students)
+### Capstone project. A mobile messaging and forum application for students of University of Rizal System Binangonan
 
 Mobile Messaging and Forum Application for Students
 Screenshots:

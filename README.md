@@ -1,4 +1,4 @@
-# usapp_mobile
+# UsApp Mobile Application (for students)
 
 A capstone project for URSB
 
@@ -10,6 +10,12 @@ Screenshots:
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-chat.png?raw=true)
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-mvqp.jpg?raw=true)
 ![alt text](https://github.com/ue-an/usapp-mobile/blob/dev/usapp-git-screenshots/usapp-devs.jpg?raw=true)
+<br>
+<br>
+### UsApp Mobile Download Site
+- [UsApp Mobile App: Download Site](https://usapp-download-site.web.app/)
+<br>
+![usapp-download-site](https://github.com/ue-an/usapp-mobile-app/assets/68469141/7715c1be-b52a-41d1-9d9d-969dd2b1a43d)
 
 
 
